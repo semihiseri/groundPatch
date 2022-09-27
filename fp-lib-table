@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "GroundPatch")(type "KiCad")(uri "${KIPRJMOD}/GroundPatch.pretty")(options "")(descr ""))
+)
